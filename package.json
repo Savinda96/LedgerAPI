@@ -1,0 +1,24 @@
+{
+  "name": "ledger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "chai": "^4.2.0",
+    "date-fns": "^2.16.1",
+    "date-fns-tz": "^1.1.1",
+    "express": "^4.17.1",
+    "mocha": "^8.2.1",
+    "moment-timezone": "^0.5.32"
+  },
+  "devDependencies": {
+    "chai-like": "^1.1.1",
+    "unexpected": "^12.0.0"
+  }
+}
